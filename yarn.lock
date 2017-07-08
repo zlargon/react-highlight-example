@@ -2809,7 +2809,7 @@ he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
-highlight.js@^9.10.0:
+highlight.js@^9.12.0:
   version "9.12.0"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.12.0.tgz#e6d9dbe57cbefe60751f02af336195870c90c01e"
 
@@ -4987,11 +4987,12 @@ react-scripts@1.0.10:
   optionalDependencies:
     fsevents "1.1.2"
 
-react-syntax-highlight@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/react-syntax-highlight/-/react-syntax-highlight-0.0.6.tgz#2a657a9a693ffd16a22181ad08de96902957f87a"
+react-syntax-highlight@^15.3.0:
+  version "15.3.0"
+  resolved "https://registry.yarnpkg.com/react-syntax-highlight/-/react-syntax-highlight-15.3.0.tgz#3d6a0ef3ce3de9525a9b31764659b2fdef0b6349"
   dependencies:
-    highlight.js "^9.10.0"
+    highlight.js "^9.12.0"
+    prop-types "^15.5.10"
 
 react@^15.6.1:
   version "15.6.1"

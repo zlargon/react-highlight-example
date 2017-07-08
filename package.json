@@ -1,12 +1,12 @@
 {
-  "name": "react-highlight-test",
-  "version": "0.1.0",
+  "name": "react-highlight-example",
+  "version": "15.3.0",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10",
-    "react-syntax-highlight": "^0.0.6"
+    "react-syntax-highlight": "^15.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
